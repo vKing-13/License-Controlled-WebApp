@@ -1,0 +1,141 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "License Server",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/licenses/generate": {
+      "post": {
+        "tags": [
+          "LicenseEndpoints"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/License"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/License"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/License"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/licenses/claim": {
+      "post": {
+        "tags": [
+          "LicenseEndpoints"
+        ],
+        "parameters": [
+          {
+            "name": "licenseKey",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "userid",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/licenses/validate/{userID}": {
+      "get": {
+        "tags": [
+          "LicenseEndpoints"
+        ],
+        "parameters": [
+          {
+            "name": "userID",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/licenses/all": {
+      "get": {
+        "tags": [
+          "LicenseEndpoints"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "License": {
+        "required": [
+          "expiryDate",
+          "isClaimed",
+          "licenseKey",
+          "licenseLevel"
+        ],
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string",
+            "format": "uuid"
+          },
+          "licenseKey": {
+            "type": "string",
+            "nullable": true
+          },
+          "licenseLevel": {
+            "type": "string",
+            "nullable": true
+          },
+          "expiryDate": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "isClaimed": {
+            "type": "boolean"
+          },
+          "userID": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}

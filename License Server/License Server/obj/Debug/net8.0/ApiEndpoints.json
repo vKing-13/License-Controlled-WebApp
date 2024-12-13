@@ -1,0 +1,65 @@
+[
+  {
+    "ContainingType": "LicenseEndpoints",
+    "Method": "GetAllLicense",
+    "RelativePath": "api/licenses/all",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LicenseEndpoints",
+    "Method": "ActivateLicense",
+    "RelativePath": "api/licenses/claim",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "licenseKey",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "userid",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LicenseEndpoints",
+    "Method": "GenerateLicense",
+    "RelativePath": "api/licenses/generate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "license",
+        "Type": "License_Server.Data.License",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LicenseEndpoints",
+    "Method": "GetLicenseLevel",
+    "RelativePath": "api/licenses/validate/{userID}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userID",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

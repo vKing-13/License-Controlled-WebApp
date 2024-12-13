@@ -1,4 +1,7 @@
 
+using License_Server.Data;
+using Microsoft.EntityFrameworkCore;
+
 namespace License_Server
 {
     public class Program
@@ -10,6 +13,9 @@ namespace License_Server
             // Add services to the container.
 
             builder.Services.AddControllers();
+
+            builder.Services.AddDbContext<LicenseServerDBContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();

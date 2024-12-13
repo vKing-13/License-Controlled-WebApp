@@ -1,0 +1,35 @@
+C:\Users\ASUS\Documents\Coding Study\Interview\Synergy.com.sg\vKing-13\License-Controlled-WebApp\Main Application\Main Application\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ASUS\Documents\Coding Study\Interview\Synergy.com.sg\vKing-13\License-Controlled-WebApp\Main Application\Main Application\bin\Debug\net8.0\appsettings.json
+C:\Users\ASUS\Documents\Coding Study\Interview\Synergy.com.sg\vKing-13\License-Controlled-WebApp\Main Application\Main Application\bin\Debug\net8.0\Main Application.staticwebassets.runtime.json
+C:\Users\ASUS\Documents\Coding Study\Interview\Synergy.com.sg\vKing-13\License-Controlled-WebApp\Main Application\Main Application\bin\Debug\net8.0\Main Application.staticwebassets.endpoints.json
+C:\Users\ASUS\Documents\Coding Study\Interview\Synergy.com.sg\vKing-13\License-Controlled-WebApp\Main Application\Main Application\bin\Debug\net8.0\Main Application.exe
+C:\Users\ASUS\Documents\Coding Study\Interview\Synergy.com.sg\vKing-13\License-Controlled-WebApp\Main Application\Main Application\bin\Debug\net8.0\Main Application.deps.json
+C:\Users\ASUS\Documents\Coding Study\Interview\Synergy.com.sg\vKing-13\License-Controlled-WebApp\Main Application\Main Application\bin\Debug\net8.0\Main Application.runtimeconfig.json
+C:\Users\ASUS\Documents\Coding Study\Interview\Synergy.com.sg\vKing-13\License-Controlled-WebApp\Main Application\Main Application\bin\Debug\net8.0\Main Application.dll
+C:\Users\ASUS\Documents\Coding Study\Interview\Synergy.com.sg\vKing-13\License-Controlled-WebApp\Main Application\Main Application\bin\Debug\net8.0\Main Application.pdb
+C:\Users\ASUS\Documents\Coding Study\Interview\Synergy.com.sg\vKing-13\License-Controlled-WebApp\Main Application\Main Application\obj\Debug\net8.0\Main Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Documents\Coding Study\Interview\Synergy.com.sg\vKing-13\License-Controlled-WebApp\Main Application\Main Application\obj\Debug\net8.0\Main Application.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\Coding Study\Interview\Synergy.com.sg\vKing-13\License-Controlled-WebApp\Main Application\Main Application\obj\Debug\net8.0\Main Application.AssemblyInfo.cs
+C:\Users\ASUS\Documents\Coding Study\Interview\Synergy.com.sg\vKing-13\License-Controlled-WebApp\Main Application\Main Application\obj\Debug\net8.0\Main Application.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\Coding Study\Interview\Synergy.com.sg\vKing-13\License-Controlled-WebApp\Main Application\Main Application\obj\Debug\net8.0\Main Application.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\Documents\Coding Study\Interview\Synergy.com.sg\vKing-13\License-Controlled-WebApp\Main Application\Main Application\obj\Debug\net8.0\Main Application.RazorAssemblyInfo.cache
+C:\Users\ASUS\Documents\Coding Study\Interview\Synergy.com.sg\vKing-13\License-Controlled-WebApp\Main Application\Main Application\obj\Debug\net8.0\Main Application.RazorAssemblyInfo.cs
+C:\Users\ASUS\Documents\Coding Study\Interview\Synergy.com.sg\vKing-13\License-Controlled-WebApp\Main Application\Main Application\obj\Debug\net8.0\Main Application.sourcelink.json
+C:\Users\ASUS\Documents\Coding Study\Interview\Synergy.com.sg\vKing-13\License-Controlled-WebApp\Main Application\Main Application\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ASUS\Documents\Coding Study\Interview\Synergy.com.sg\vKing-13\License-Controlled-WebApp\Main Application\Main Application\obj\Debug\net8.0\scopedcss\bundle\Main Application.styles.css
+C:\Users\ASUS\Documents\Coding Study\Interview\Synergy.com.sg\vKing-13\License-Controlled-WebApp\Main Application\Main Application\obj\Debug\net8.0\scopedcss\projectbundle\Main Application.bundle.scp.css
+C:\Users\ASUS\Documents\Coding Study\Interview\Synergy.com.sg\vKing-13\License-Controlled-WebApp\Main Application\Main Application\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ASUS\Documents\Coding Study\Interview\Synergy.com.sg\vKing-13\License-Controlled-WebApp\Main Application\Main Application\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ASUS\Documents\Coding Study\Interview\Synergy.com.sg\vKing-13\License-Controlled-WebApp\Main Application\Main Application\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\ASUS\Documents\Coding Study\Interview\Synergy.com.sg\vKing-13\License-Controlled-WebApp\Main Application\Main Application\obj\Debug\net8.0\staticwebassets\msbuild.Main Application.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ASUS\Documents\Coding Study\Interview\Synergy.com.sg\vKing-13\License-Controlled-WebApp\Main Application\Main Application\obj\Debug\net8.0\staticwebassets\msbuild.Main Application.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\ASUS\Documents\Coding Study\Interview\Synergy.com.sg\vKing-13\License-Controlled-WebApp\Main Application\Main Application\obj\Debug\net8.0\staticwebassets\msbuild.build.Main Application.props
+C:\Users\ASUS\Documents\Coding Study\Interview\Synergy.com.sg\vKing-13\License-Controlled-WebApp\Main Application\Main Application\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Main Application.props
+C:\Users\ASUS\Documents\Coding Study\Interview\Synergy.com.sg\vKing-13\License-Controlled-WebApp\Main Application\Main Application\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Main Application.props
+C:\Users\ASUS\Documents\Coding Study\Interview\Synergy.com.sg\vKing-13\License-Controlled-WebApp\Main Application\Main Application\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ASUS\Documents\Coding Study\Interview\Synergy.com.sg\vKing-13\License-Controlled-WebApp\Main Application\Main Application\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\ASUS\Documents\Coding Study\Interview\Synergy.com.sg\vKing-13\License-Controlled-WebApp\Main Application\Main Application\obj\Debug\net8.0\Main Application.dll
+C:\Users\ASUS\Documents\Coding Study\Interview\Synergy.com.sg\vKing-13\License-Controlled-WebApp\Main Application\Main Application\obj\Debug\net8.0\refint\Main Application.dll
+C:\Users\ASUS\Documents\Coding Study\Interview\Synergy.com.sg\vKing-13\License-Controlled-WebApp\Main Application\Main Application\obj\Debug\net8.0\Main Application.pdb
+C:\Users\ASUS\Documents\Coding Study\Interview\Synergy.com.sg\vKing-13\License-Controlled-WebApp\Main Application\Main Application\obj\Debug\net8.0\Main Application.genruntimeconfig.cache
+C:\Users\ASUS\Documents\Coding Study\Interview\Synergy.com.sg\vKing-13\License-Controlled-WebApp\Main Application\Main Application\obj\Debug\net8.0\ref\Main Application.dll

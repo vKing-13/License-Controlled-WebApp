@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("License Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ec16b800667d8622d25d4ac351b556a4464d9009")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f37300da2f485a7d0161c2b7d7cd4f85cfa36201")]
 [assembly: System.Reflection.AssemblyProductAttribute("License Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("License Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

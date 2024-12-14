@@ -40,7 +40,7 @@
     "Parameters": [
       {
         "Name": "license",
-        "Type": "License_Server.Data.License",
+        "Type": "License_Server.Models.License",
         "IsRequired": true
       }
     ],

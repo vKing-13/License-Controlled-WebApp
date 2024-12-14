@@ -1,5 +1,6 @@
 ﻿using Azure.Core;
 using License_Server.Data;
+using License_Server.Models;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Linq;

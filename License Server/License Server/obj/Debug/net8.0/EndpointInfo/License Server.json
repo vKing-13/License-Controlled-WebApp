@@ -119,8 +119,7 @@
             "nullable": true
           },
           "licenseLevel": {
-            "type": "string",
-            "nullable": true
+            "$ref": "#/components/schemas/LicenseLevel"
           },
           "expiryDate": {
             "type": "string",
@@ -135,6 +134,15 @@
           }
         },
         "additionalProperties": false
+      },
+      "LicenseLevel": {
+        "enum": [
+          0,
+          1,
+          2
+        ],
+        "type": "integer",
+        "format": "int32"
       }
     }
   }

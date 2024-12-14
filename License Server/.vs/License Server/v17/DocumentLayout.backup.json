@@ -3,24 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\ASUS\\Documents\\Coding Study\\Interview\\Synergy.com.sg\\vKing-13\\License-Controlled-WebApp\\License Server\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Documents\\Coding Study\\Interview\\Synergy.com.sg\\vKing-13\\License-Controlled-WebApp\\License Server\\License Server\\Migrations\\20241213222228_Third_Migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:License Server\\Migrations\\20241213222228_Third_Migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED5C0EC2-9320-4640-81A8-8C3E762DF3E0}|License Server\\License Server.csproj|c:\\users\\asus\\documents\\coding study\\interview\\synergy.com.sg\\vking-13\\license-controlled-webapp\\license server\\license server\\controllers\\licenseendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED5C0EC2-9320-4640-81A8-8C3E762DF3E0}|License Server\\License Server.csproj|solutionrelative:license server\\controllers\\licenseendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED5C0EC2-9320-4640-81A8-8C3E762DF3E0}|License Server\\License Server.csproj|c:\\users\\asus\\documents\\coding study\\interview\\synergy.com.sg\\vking-13\\license-controlled-webapp\\license server\\license server\\license server.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{ED5C0EC2-9320-4640-81A8-8C3E762DF3E0}|License Server\\License Server.csproj|solutionrelative:license server\\license server.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Documents\\Coding Study\\Interview\\Synergy.com.sg\\vKing-13\\License-Controlled-WebApp\\License Server\\License Server\\Migrations\\20241214110319_add seed data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:License Server\\Migrations\\20241214110319_add seed data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ED5C0EC2-9320-4640-81A8-8C3E762DF3E0}|License Server\\License Server.csproj|c:\\users\\asus\\documents\\coding study\\interview\\synergy.com.sg\\vking-13\\license-controlled-webapp\\license server\\license server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED5C0EC2-9320-4640-81A8-8C3E762DF3E0}|License Server\\License Server.csproj|solutionrelative:license server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED5C0EC2-9320-4640-81A8-8C3E762DF3E0}|License Server\\License Server.csproj|c:\\users\\asus\\documents\\coding study\\interview\\synergy.com.sg\\vking-13\\license-controlled-webapp\\license server\\license server\\data\\licenseserverdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED5C0EC2-9320-4640-81A8-8C3E762DF3E0}|License Server\\License Server.csproj|solutionrelative:license server\\data\\licenseserverdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ED5C0EC2-9320-4640-81A8-8C3E762DF3E0}|License Server\\License Server.csproj|c:\\users\\asus\\documents\\coding study\\interview\\synergy.com.sg\\vking-13\\license-controlled-webapp\\license server\\license server\\data\\licenseseeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED5C0EC2-9320-4640-81A8-8C3E762DF3E0}|License Server\\License Server.csproj|solutionrelative:license server\\data\\licenseseeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED5C0EC2-9320-4640-81A8-8C3E762DF3E0}|License Server\\License Server.csproj|c:\\users\\asus\\documents\\coding study\\interview\\synergy.com.sg\\vking-13\\license-controlled-webapp\\license server\\license server\\models\\license.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED5C0EC2-9320-4640-81A8-8C3E762DF3E0}|License Server\\License Server.csproj|solutionrelative:license server\\models\\license.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,66 +31,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "20241213222228_Third_Migration.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\Coding Study\\Interview\\Synergy.com.sg\\vKing-13\\License-Controlled-WebApp\\License Server\\License Server\\Migrations\\20241213222228_Third_Migration.cs",
-              "RelativeDocumentMoniker": "License Server\\Migrations\\20241213222228_Third_Migration.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Documents\\Coding Study\\Interview\\Synergy.com.sg\\vKing-13\\License-Controlled-WebApp\\License Server\\License Server\\Migrations\\20241213222228_Third_Migration.cs",
-              "RelativeToolTip": "License Server\\Migrations\\20241213222228_Third_Migration.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "20241214110319_add seed data.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\Coding Study\\Interview\\Synergy.com.sg\\vKing-13\\License-Controlled-WebApp\\License Server\\License Server\\Migrations\\20241214110319_add seed data.cs",
+              "RelativeDocumentMoniker": "License Server\\Migrations\\20241214110319_add seed data.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\Coding Study\\Interview\\Synergy.com.sg\\vKing-13\\License-Controlled-WebApp\\License Server\\License Server\\Migrations\\20241214110319_add seed data.cs",
+              "RelativeToolTip": "License Server\\Migrations\\20241214110319_add seed data.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T22:22:29.286Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "LicenseServerDBContext.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\Coding Study\\Interview\\Synergy.com.sg\\vKing-13\\License-Controlled-WebApp\\License Server\\License Server\\Data\\LicenseServerDBContext.cs",
-              "RelativeDocumentMoniker": "License Server\\Data\\LicenseServerDBContext.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Documents\\Coding Study\\Interview\\Synergy.com.sg\\vKing-13\\License-Controlled-WebApp\\License Server\\License Server\\Data\\LicenseServerDBContext.cs",
-              "RelativeToolTip": "License Server\\Data\\LicenseServerDBContext.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBMAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T22:18:22.713Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\Coding Study\\Interview\\Synergy.com.sg\\vKing-13\\License-Controlled-WebApp\\License Server\\License Server\\Program.cs",
-              "RelativeDocumentMoniker": "License Server\\Program.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Documents\\Coding Study\\Interview\\Synergy.com.sg\\vKing-13\\License-Controlled-WebApp\\License Server\\License Server\\Program.cs",
-              "RelativeToolTip": "License Server\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T21:57:38.813Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "License Server.http",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\Coding Study\\Interview\\Synergy.com.sg\\vKing-13\\License-Controlled-WebApp\\License Server\\License Server\\License Server.http",
-              "RelativeDocumentMoniker": "License Server\\License Server.http",
-              "ToolTip": "C:\\Users\\ASUS\\Documents\\Coding Study\\Interview\\Synergy.com.sg\\vKing-13\\License-Controlled-WebApp\\License Server\\License Server\\License Server.http",
-              "RelativeToolTip": "License Server\\License Server.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-12-13T20:52:23.898Z",
+              "WhenOpened": "2024-12-14T11:03:19.271Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "LicenseEndpoints.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\Coding Study\\Interview\\Synergy.com.sg\\vKing-13\\License-Controlled-WebApp\\License Server\\License Server\\Controllers\\LicenseEndpoints.cs",
-              "RelativeDocumentMoniker": "License Server\\Controllers\\LicenseEndpoints.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Documents\\Coding Study\\Interview\\Synergy.com.sg\\vKing-13\\License-Controlled-WebApp\\License Server\\License Server\\Controllers\\LicenseEndpoints.cs",
-              "RelativeToolTip": "License Server\\Controllers\\LicenseEndpoints.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAgwDQAAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\Coding Study\\Interview\\Synergy.com.sg\\vKing-13\\License-Controlled-WebApp\\License Server\\License Server\\Program.cs",
+              "RelativeDocumentMoniker": "License Server\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\Coding Study\\Interview\\Synergy.com.sg\\vKing-13\\License-Controlled-WebApp\\License Server\\License Server\\Program.cs",
+              "RelativeToolTip": "License Server\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T21:39:56.211Z",
+              "WhenOpened": "2024-12-14T10:59:27.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "License.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\Coding Study\\Interview\\Synergy.com.sg\\vKing-13\\License-Controlled-WebApp\\License Server\\License Server\\Models\\License.cs",
+              "RelativeDocumentMoniker": "License Server\\Models\\License.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\Coding Study\\Interview\\Synergy.com.sg\\vKing-13\\License-Controlled-WebApp\\License Server\\License Server\\Models\\License.cs",
+              "RelativeToolTip": "License Server\\Models\\License.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T10:46:08.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LicenseSeedData.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\Coding Study\\Interview\\Synergy.com.sg\\vKing-13\\License-Controlled-WebApp\\License Server\\License Server\\Data\\LicenseSeedData.cs",
+              "RelativeDocumentMoniker": "License Server\\Data\\LicenseSeedData.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\Coding Study\\Interview\\Synergy.com.sg\\vKing-13\\License-Controlled-WebApp\\License Server\\License Server\\Data\\LicenseSeedData.cs",
+              "RelativeToolTip": "License Server\\Data\\LicenseSeedData.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAqwB0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T10:44:29.218Z",
               "EditorCaption": ""
             }
           ]
